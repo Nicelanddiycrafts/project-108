@@ -1,0 +1,49 @@
+#header_div{
+    background-color:#E1DBD6;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    color: Black ;
+    padding: 20
+    }
+
+#header_div h2 {
+ font-size: 30;
+    }
+
+#header_div p {
+    font-size: 20;
+           }
+
+#copy_right_footer{
+    background-color:  #E2E2E2 ;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+
+}
+
+#copy_right_footer h4{
+    font-size: 25;
+}
+
+button{
+    margin-top: 150px;
+    background-color: #E2E2E2;
+    border-color: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 100;
+}
+
+#header{
+    color: Black ;
+    font-size: 25;
+}
+
+body{
+    color: black;
+    background-color: #D1D1D1;
+    font-family:'Special Elite', cursive;
+
+}
